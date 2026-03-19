@@ -19,8 +19,8 @@ The application is designed for learning purposes, focusing on backend developme
 * 🗄️ MySQL database integration
 
   
-admin's account :admin
-admin1234
+*admin's account :admin
+*admin1234
 
 
 
