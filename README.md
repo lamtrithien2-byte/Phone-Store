@@ -18,6 +18,12 @@ The application is designed for learning purposes, focusing on backend developme
 * 📡 RESTful API support
 * 🗄️ MySQL database integration
 
+  
+admin's account :admin
+admin1234
+
+
+
 ---
 
 ## 🛠️ Technologies Used
